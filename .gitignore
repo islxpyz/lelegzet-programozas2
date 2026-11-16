@@ -1,0 +1,7 @@
+target/
+.idea/
+*.iml
+*.class
+/adatok/
+.DS_Store
+
